@@ -9,7 +9,7 @@
 |**EMBO Fellowship** | [EMBO postdoctoral fellowship](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships.html)|   2yrs| 2020-08-14| yes|
 |**Zukunftskolleg (Uni Konstanz)**| [Postdoctoral Fellowship](https://www.uni-konstanz.de/zukunftskolleg/fellowships/postdoctoral-fellowship/)|2yrs| mid Oktober| |
 |**DAAD** | [Postdoctoral Fellowship](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57243862)| 3-6 months| 2020-06-15| no|
-|**DAAD** | [PRIME](https://www.daad.de/en/study-and-research-in-germany/scholarships/postdoctoral-researchers-international-mobility-experience/)| 1.5yrs (1 abroad, 0.5 in Germany) | to be announced (~August2020)| yes(?)|
+|**DAAD** | [PRIME](https://www.daad.de/en/study-and-research-in-germany/scholarships/postdoctoral-researchers-international-mobility-experience/)| 1.5yrs (1 abroad, 0.5 in Germany) | 2020-08-31| yes(?)|
 ---
 
 #### Non-salery Grants
